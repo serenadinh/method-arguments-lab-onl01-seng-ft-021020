@@ -1,6 +1,6 @@
 
 def introduction (name, language)
-  @name = 
+  @name = "name"
   @language = 
 end
 def introduction_with_language (name, language)
